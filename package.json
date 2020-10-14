@@ -1,0 +1,25 @@
+{
+  "name": "insecureit",
+  "version": "0.1.0",
+  "description": "meta package manager poc",
+  "main": "/app.index.js",
+  "scripts": {
+    "test": "meta npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcaj-admin/meta-repo.git"
+  },
+  "keywords": [
+    "meta",
+    "git",
+    "repo",
+    "npm"
+  ],
+  "author": "Morris C. Attaway Jr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcaj-admin/meta-repo/issues"
+  },
+  "homepage": "https://github.com/mcaj-admin/meta-repo#readme"
+}
